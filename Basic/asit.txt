@@ -1,0 +1,12 @@
+Responsibilities: 
+•	Reviewed the Business Requirement Document, System Requirement Specifications and Use Cases in the initial phase development. 
+•	Automated web application using Selenium WebDriver and JUnit. 
+•	Implemented Page Objects, Test classes, Data Driven automation frameworks using SeleniumWebDriver, JAVA, and JUnit. 
+•	Used web-debugging tools like XPath, Firebug and Firepath to locate elements.
+•	Responsible for attending the daily meeting regarding the status of the Application on daily basis in the Agile Environment.
+•	Developed data driven tests for Functional and Regression testing. 
+•	Monitored regression test results, fixed tests as needed and created bugs. 
+•	Worked with manual testers to create improvement plan documents for Development team. 
+•	Developed test scenarios and test cases for smoke testing, functional testing, positive and negative testing, boundary testing. 
+
+Environment: JUnit, JAVA, Selenium Web Driver, HTML, SQL, Windows 7, eclipse, Maven, JIRA.
